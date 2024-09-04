@@ -1,0 +1,39 @@
+.centro{text-align: center;}
+*{font-family: Century; background-color: rgb(240, 211, 253);}
+#nome{font-size: xx-large; font-weight: 600;
+      margin-top: 15px;}
+
+#menu{
+    float: left; background-color: rgb(226, 186, 252); width: 15%; flex-flow: nowrap;
+    text-align: left; margin-left: 10px; border-radius: 15px; overflow: hidden;}
+
+#foto{
+    margin-left: 0.1px; margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+.contato{margin-left: 7px; margin-right: 7px; margin-top: 2px;}
+.contatot{font-weight: 500; font-size: large; margin-left: 7px; margin-right: 7px;}
+.espaco{margin-left: 15px; margin-right: 15px;}
+.subtitulo{text-align: center; font-size: medium; margin-top: 5px;}
+.academico{
+    float: left; background-color: rgb(226, 186, 252); width: 82%; flex-flow: nowrap; margin-left: 15px; background-color: rgb(226, 186, 252); border-radius: 15px;
+}
+.profissional{
+    float: left; background-color: rgb(226, 186, 252); width: 82%; flex-flow: nowrap; margin-left: 16.8%; margin-top: 15px; margin-bottom: 15px; background-color: rgb(226, 186, 252); border-radius: 15px;
+}
+.titulo{
+    font-size: x-large; font-weight: 500; margin-left: 15px; background-color: rgb(226, 186, 252)
+}
+.conteudo{
+    margin-left: 25px; margin-bottom: 5px; background-color: rgb(226, 186, 252)
+}
+.conteudo2{
+    margin-left: 45px; margin-top: 7px; font-style: italic; background-color: rgb(226, 186, 252)
+}
+.conteudop{
+    margin-left: 25px; font-weight: 600; margin-bottom: 10px; font-size: larger; background-color: rgb(226, 186, 252)
+}
+.conteudop2{
+    margin-left: 55px; margin-right: 45px; background-color: rgb(226, 186, 252); text-align: justify;
+}
